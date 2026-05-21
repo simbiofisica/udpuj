@@ -421,9 +421,9 @@ section.section--participate {
 
 .hero__content {
   width: 60%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .hero__eyebrow {
