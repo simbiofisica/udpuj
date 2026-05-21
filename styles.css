@@ -782,6 +782,8 @@ section.section--participate {
   box-shadow: var(--shadow-sm);
   position: relative;
   overflow: hidden;
+  justify-content: center;
+  align-items: center;
 }
 
 .btn--primary::before {
