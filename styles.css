@@ -745,6 +745,7 @@ section.section--participate {
   gap: 1rem; 
   flex-wrap: wrap; 
   margin-top: 1.5rem; 
+  justify-content: center;
 }
 
 .btn {
